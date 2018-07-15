@@ -1,1 +1,1 @@
-start TestProject.exe abcdefg
+start TestProject.exe
